@@ -66,12 +66,19 @@ h5 {
 
 footer {
   text-align: center;
+  padding-bottom: 20px;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
+}
+.foot {
+  color: grey;
+}
+.footlink {
+  color: black;
 }
 .box {
   padding-top: 10px;
