@@ -63,3 +63,22 @@ h5 {
 .NextPage {
   color: black;
 }
+
+footer {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.box {
+  padding-top: 10px;
+}
+.searchtitle {
+  list-style-type: none;
+  display: inline;
+  color: grey;
+
+}
