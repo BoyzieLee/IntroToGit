@@ -37,3 +37,29 @@ header {
   float: left;
   padding: 0 5px 0 5px;
 }
+ol {
+  color: grey;
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+}
+.divider {
+  color: white;
+  padding: 0 5px 0 5px;
+  float: left;
+}
+h3 {
+  margin-bottom: 0;
+}
+h5 {
+  margin-top: 3px;
+  margin-left: 11px;
+}
+.title {
+  color: black;
+}
+.website {
+  font-size: 13px;
+}
+.NextPage {
+  color: black;
+}
